@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William9Baker
-- 👀 I’m interested in AI, such as Computer Vision.
+- 👀 I’m interested in AI applied in Computer Vision.
 - 🌱 I’m currently learning PyTorch.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me? suifengingo@163.com or WeChat ID: suifenging0
