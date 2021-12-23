@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI applied in Computer Vision.
 - 🌱 I’m currently learning PyTorch.
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me? suifengingo@163.com or WeChat ID: suifenging0
+- 📫 How to reach me? suifengingo@163.com
 
 <!---
 William9Baker/William9Baker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
