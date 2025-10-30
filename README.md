@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @William9Baker
 - 👀 I’m interested in Computer Vision.
-- 🌱 I’m currently learning PyTorch and Cpp.
+- 🌱 I’m currently learning RL.
 - 📫 How to reach me? suifengingo@163.com
 
 <!---
